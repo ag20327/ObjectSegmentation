@@ -1,7 +1,7 @@
 Flask>=1.1.2
 gunicorn>=19.9.0
 numpy>=1.17.1
-opencv-python>=4.5.1.48
+opencv-python-headless
 Click>=7.0
 itsdangerous>=1.1.0
 Jinja2>=2.10.1
